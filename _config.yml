@@ -41,7 +41,7 @@ markdown: kramdown
 
 # Build settings
 #theme: minima
-theme: spectral_jekyll_theme
+#theme: spectral_jekyll_theme
 plugins:
   - jekyll-feed
 
