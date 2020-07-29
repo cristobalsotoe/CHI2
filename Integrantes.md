@@ -36,7 +36,7 @@ title: Integrantes
 				</tr>
 				<tr>
 					<td>Daniela Manuschevich Vizcarra</td>
-					<td>Bióloga. Doctorado en Política de Recursos Naturales. Profesor a tiempo completo en la Escuela de Geografía de la Universidad Academia de Humanismo Cristiano. Su investigacion se ha centrado en: 1) el cambio de uso del suelo; 2) modelado de servicios ecosistémicos; y 3) comprender las transformaciones socioecológicas en las comunidades rurales del centro-sur de Chile.</td>
+					<td>Bióloga. Doctorado en Política de Recursos Naturales. Profesora a tiempo completo en la Escuela de Geografía de la Universidad Academia de Humanismo Cristiano. Su investigacion se ha centrado en: 1) el cambio de uso del suelo; 2) modelado de servicios ecosistémicos; y 3) comprender las transformaciones socioecológicas en las comunidades rurales del centro-sur de Chile.</td>
 				</tr>
 				<tr>
 					<td>Juan Pablo Boisier</td>

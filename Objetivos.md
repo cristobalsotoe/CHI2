@@ -7,7 +7,7 @@ leafletmap: false
 
 Bajo la hipótesis de que la cobertura del suelo y el uso del agua modulan la respuesta hidrológica a las condiciones climáticas, exploraremos, evaluaremos y propondremos estrategias de manejo de cuencas hidrográficas basadas en la naturaleza para mitigar los impactos del cambio global en los recursos hídricos en las cuencas vulnerables de **Chile y China** durante el siglo XXI.
 
-Este estudio colaborativo entre equipos de investigación chilenos y chinos sobre cuencas piloto se centrará en  siguientes **objetivos específicos**:
+Este estudio colaborativo entre equipos de investigación chilenos y chinos sobre cuencas piloto se centrará en los siguientes **objetivos específicos**:
 
 1. Fomentar el **intercambio de conocimientos**, tecnologías y experiencias entre expertos de Chile y China sobre gestión de recursos hídricos.
 
